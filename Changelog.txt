@@ -1,0 +1,3 @@
+0.3.0
+	Changes for 1.2.2
+	Adjusted node_attach for collector
